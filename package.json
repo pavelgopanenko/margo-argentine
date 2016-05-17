@@ -1,0 +1,12 @@
+{
+  "name": "proj-argentina",
+  "version": "0.1.0",
+  "license" : "CC-BY-NC",
+  "author": {
+    "name" : "Pavel Gopanenko",
+    "email" : "pavel@gopanenko.ru"
+  },
+  "devDependencies": {
+    "markdown-pdf": "7.0.0"
+  }
+}
