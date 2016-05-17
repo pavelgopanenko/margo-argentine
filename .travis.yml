@@ -1,0 +1,5 @@
+language: node_js
+email: pavelgopanenko@gmail.com
+before_script:
+  - npm install -g
+script: markdown-pdf -f A4 --out /tmp/argentine.pdf -s ./style.css ./argentine.md
